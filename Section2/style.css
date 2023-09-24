@@ -1,0 +1,22 @@
+body{
+    border: 1px solid #959595;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+button {
+    background-color: burlywood;
+    width: 10%;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input#input-text {
+    width: 20%;
+    margin-bottom: 20px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid burlywood;
+    text-align: center;
+}
