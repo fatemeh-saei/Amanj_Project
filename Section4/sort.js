@@ -20,3 +20,4 @@ console.log("sort:", numbers.sort((a, b)=>{
 console.log("numbers2:", numbers2);
 console.log("numbers includes(40):", numbers.includes(40));
 console.log("numbers2 includes(60):",numbers2.includes(60));
+
