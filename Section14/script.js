@@ -1,5 +1,5 @@
 
-const url = "https://api.api-ninjas.com/v1/cats?playfulness=5";
+const url = "https://api.api-ninjas.com/v1/cats";
 const API_KEY = "LwhixeFQYjBn3YfcqDem6g==QYOuItDXrnEHrtXt";
 
 const fetchCats = async ()=>{
