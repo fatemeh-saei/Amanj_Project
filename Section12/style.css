@@ -1,0 +1,10 @@
+li{
+    border: 1px solid #0f1554;;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: #191f5c;
+    color: white;
+    font-size: 16px;
+    max-width: 30%;
+}
